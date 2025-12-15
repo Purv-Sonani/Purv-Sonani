@@ -9,12 +9,6 @@
 
 - 📍 Germany • 🚀 Building: [Zenta – Fitness & Nutrition Tracker](http://zenta-fnt.vercel.app/login) • 🧠 Learning: AI/ML
 
-### What I do
-- 🧩 Full-stack apps (frontend, backend, database, deployment)
-- 🎨 Responsive UI + reusable components
-- 🔐 REST APIs, auth, and data-driven features
-- ⚡ Performance, reliability, and clean architecture
-
 ### Tech stack (quick view)
 **Languages:** JavaScript, TypeScript, Python, Dart • **Frontend:** React, Next.js, HTML, CSS, TailwindCSS, Bootstrap • **Backend:** Node.js, Express, Django • **DB:** PostgreSQL, MySQL, MongoDB, Firebase, Supabase • **Tools:** Git, VS Code, Figma, Adobe XD
 
@@ -54,6 +48,3 @@
 <a href="https://github.com/Purv-Sonani"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purv-Sonani&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
 
-<p align="left">
-<a href="https://github.com/Purv-Sonani/Zenta---Nutrition-Fitness-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Purv-Sonani&repo=Zenta---Nutrition-Fitness-Tracker&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Pinned repo" /></a>
-</p>
