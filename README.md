@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Purv</h1>
+[<h1 align="center">Hi 👋, I'm Purv</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purv-sonani&label=Profile%20views&color=0e75b6&style=flat" alt="purv-sonani" /> </p>
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purv-sonani&show_icons=true&locale=en" alt="purv-sonani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purv-sonani&" alt="purv-sonani" /></p>
+](https://github.com/Purv-Sonani/Zenta---Nutrition-Fitness-Tracker)
